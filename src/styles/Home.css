@@ -1,0 +1,16 @@
+.courgette {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+}
+
+.z-100 {
+  z-index: -100;
+}
+
+.video {
+  width: 90rem;
+}
+
+.vid-container {
+  height: 42.6rem;
+  width: 90rem;
+}
